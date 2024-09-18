@@ -75,6 +75,7 @@ Client-server chat applications are foundational to real-time communication over
 
 ## PROGRAM
 ### CLIENT:
+~~~
 NAME : GANESH G.
 REG. NO. : 212223230059
 
@@ -103,8 +104,9 @@ def client_program():
 
 if __name__ == '__main__':
    client_program()
-
+~~~
 ### SERVER:
+~~~
 NAME : GANESH G.
 REG. NO. : 212223230059
 
@@ -138,7 +140,7 @@ def server_program():
 if __name__ == '__main__':
     server_program()
 
-
+~~~
 ### CLIENT:
 ![image](https://github.com/user-attachments/assets/a074d2ff-4717-497a-b85a-c0464bff2cea)
 
